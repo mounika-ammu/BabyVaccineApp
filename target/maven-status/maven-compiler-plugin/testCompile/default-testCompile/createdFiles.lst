@@ -1,0 +1,7 @@
+com\capg\ChildVaccination\VaccineServiceMockitoTest.class
+com\capg\ChildVaccination\HospitalRepositoryTest.class
+com\capg\ChildVaccination\HospitalServiceTest.class
+com\capg\ChildVaccination\HospitalServiceMockitoTest.class
+com\capg\ChildVaccination\ChildVaccinationApplicationTests.class
+com\capg\ChildVaccination\VaccineServiceTest.class
+com\capg\ChildVaccination\AdminServiceTest.class
